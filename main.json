@@ -48,6 +48,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Tu\u015detu spacoklavon a\u016d tu\u015du \u0109i-tie por malfermi esperanto.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -71,6 +76,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Tu\u015detu spacoklavon a\u016d tu\u015du \u0109i-tie por malfermi retejon de podkasto kernpunkto"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -94,6 +104,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Tu\u015detu spacoklavon a\u016d tu\u015du \u0109i-tie por malfermi lernu.net"
                 }],
          "type":"tilelayer",
          "visible":true,
