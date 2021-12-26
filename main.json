@@ -43,6 +43,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.esperanto.de\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,6 +66,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/kern.punkto.info\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,6 +89,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/lernu.net\/en"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,6 +112,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EsperantoBabilejo"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
