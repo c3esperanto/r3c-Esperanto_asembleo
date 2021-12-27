@@ -225,7 +225,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/maps\/non-tech.json#start_esperanto"
+                 "value":"world:\/\/lobby\/kunstinsel.json#start_esperanto"
                 }],
          "type":"tilelayer",
          "visible":true,
