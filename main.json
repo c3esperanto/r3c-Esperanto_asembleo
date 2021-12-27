@@ -236,6 +236,27 @@
  "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC BY-SA 4.0 C3Esperanto \u2605 \u0124aoso Internacia"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Esperanto \u2014 die internationale Sprache \u2014 the international language \u2014 la lingvo internacia"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/c3esperanto\/r3c-Esperanto_asembleo"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Esperanto \u2605 \u0124aoso Internacia"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
