@@ -196,6 +196,12 @@
  "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC BY-SA 4.0 C3Esperanto \u2605 \u0124aoso Internacia"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
