@@ -43,6 +43,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.esperanto.de\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Tu\u015detu spacoklavon a\u016d tu\u015du \u0109i-tie por malfermi esperanto.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,6 +71,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/kern.punkto.info\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Tu\u015detu spacoklavon a\u016d tu\u015du \u0109i-tie por malfermi retejon de podkasto kernpunkto"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,6 +99,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/lernu.net\/en"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Tu\u015detu spacoklavon a\u016d tu\u015du \u0109i-tie por malfermi lernu.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,6 +127,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EsperantoBabilejo"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Tu\u015detu spacoklavon a\u016d tu\u015du \u0109i-tie por eniri Jitsi-babil-\u0109ambron"
                 }],
          "type":"tilelayer",
          "visible":true,
