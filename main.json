@@ -98,7 +98,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lernu.net\/en"
+                 "value":"https:\/\/lernu.net"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
